@@ -53,7 +53,7 @@ class Coche(Vehicle):
     
     def set_type_car(self, type_car):
         if type_car :
-            self.___type_car = type_car
+            self.__type_car = type_car
 
         else:
             raise ValueError ("El tipo de carro no puede estar vacio")
