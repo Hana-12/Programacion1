@@ -17,9 +17,3 @@ class Perro(Animal):
     def hacer_sonido(self):
         return 'Guau Guau'
 
-#Lista animales
-animales = [Perro(), Gato(), Perro()]
-
-#Impresión en pantalla utilzando el método abstracto
-for animal in animales:
-    print(animal.hacer_sonido())

@@ -18,9 +18,3 @@ class Avion(Volador):
     def volar(self):
         return "El Avión enciende sus motores y despega"
 
-#Uso en las distintas clases
-pajaro = Pajaro()
-print(pajaro.volar())
-
-avion = Avion()
-print(avion.volar())

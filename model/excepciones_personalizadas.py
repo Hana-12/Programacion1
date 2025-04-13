@@ -1,0 +1,2 @@
+class ExcesoVelocidadException(Exception):
+    pass
