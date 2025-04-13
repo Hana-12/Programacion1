@@ -6,7 +6,7 @@ En este repositorio se encuentra el código para solucionar los ejercicios del t
 Los estudiantes que pertenecemos al grupo somos:
 
 * Camilo Andrés De la Cruz Arboleda
-* Diana
+* Diana Carolina Ospina Ocampo
 * Hana
 * Jean Pierre
 * Sami
