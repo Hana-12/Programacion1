@@ -7,9 +7,9 @@ Los estudiantes que pertenecemos al grupo somos:
 
 * Camilo Andrés De la Cruz Arboleda
 * Diana Carolina Ospina Ocampo
-* Hana
-* Jean Pierre
-* Sami
+* Hana Carolina Niño Mora
+* Jean Pierre Villamil Sanchez
+* Sandra Milena Campos Gonzalez
 
 
 
